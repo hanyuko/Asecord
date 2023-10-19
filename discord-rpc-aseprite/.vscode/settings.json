@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "app",
+        "Dialog",
+        "Rectangle"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global"
+    ]
+}

@@ -1,0 +1,1 @@
+Idling;Editing: {file_name};Type: file {file_type};relaxing ...;Idling;i need sleeping;Editing {file_type} file;Aseprite;false;false;false
