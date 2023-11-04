@@ -25,13 +25,13 @@ A discord rich presence for Aseprite!cool and ez to use. 😎
 <img src='https://i.imgur.com/yB5E8Qw.png'/>  <img src='https://i.imgur.com/0Jymnhu.png'/>
 
 ## How to use?
-- This is dialog of Asecord@1.0.2, next to it are some instructions for use
+- This is dialog of Asecord@1.0.2, below it are some instructions for use
 <img src='https://i.imgur.com/31j1Wz8.png' width=340/>
 
 ### Variables
 - `{empty}` - this will be replaced with an empty space.
-- `{empty}` - this will be replaced with an empty space.
-- `{empty}` - this will be replaced with an empty space.
+- `{file_name}` - this will be replaced with file's name.
+- `{file_type}` - this will be replaced with file's fomat.
 - *Will be updated more in v1.0.3*
 
 ### Buttons
