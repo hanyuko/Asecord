@@ -55,4 +55,4 @@ A discord rich presence for Aseprite!cool and ez to use. 😎
 <img src='https://i.imgur.com/a9xakZG.png' width=240/>
 
 ## License
-- This repository has been licensed by the [MIT license](https://github.com/hanyuko/Asecord/blob/main/LICENSE)https://github.com/hanyuko/Asecord/blob/main/LICENSE. ⚖
+- This repository has been licensed by the [MIT license](https://github.com/hanyuko/Asecord/blob/main/LICENSE). ⚖
