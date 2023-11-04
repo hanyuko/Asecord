@@ -2,7 +2,7 @@
   "name": "discord-rpc-aseprite",
   "displayName": "Discord Rich Presence for Aseprite",
   "description": "Discord Rich Presence custom status for Aseprite.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": {
     "name": "JamienTheLatte",
     "email": "valak0976@gmail.com"
@@ -16,12 +16,12 @@
   "contributes": {
     "scripts": [
       {
-        "path": "../discordRPC.lua"
+        "path": "../Discord RPC.lua"
       }
     ]
   },
   "dependencies": {
-    "@arcsine/win-info": "^0.2.13",
+    "@arcsine/win-info": "^0.1.2",
     "discord-rpc": "^4.0.1",
     "find-process": "^1.4.3"
   }

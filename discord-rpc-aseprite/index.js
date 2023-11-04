@@ -14,9 +14,9 @@ const startTimestamp = new Date()
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 
 async function UpdatePresence() {
-  fs.readFile('config.txt', 'utf8', async(err, data) => {
+  fs.readFile(config.datafile, 'utf8', async(err, data) => {
     if (err) return console.error(err)
-
+    
     const apps = await fp('name', 'Aseprite')
     let App, Window
   
