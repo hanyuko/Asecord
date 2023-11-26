@@ -8,6 +8,7 @@ A discord rich presence for Aseprite!cool and ez to use. 😎
 
 ## Requirements
 - NodeJS 16^ - [Download](https://nodejs.org/en) | *( Recommend: [`LTS 18.20`](https://nodejs.org/en/blog/release/v18.12.0) or `LTS 21.1` )*.
+- Aseprite v1.3^ - [Download](https://www.aseprite.org)
 - NPM - Included with NodeJS.
 - Windows Build Tools - check Setup part.
 
